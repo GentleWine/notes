@@ -10,6 +10,8 @@
 
 　　7月20号左右，举办线上学术夏令营活动，具体日程安排另行通知。
 
+​		https://grd.bit.edu.cn/zsgz/zsxx/index.htm
+
 - 电子科技大学(信息与软件工程学院) published on June 28th, 2020
 
 ​        申请截止日期为2020年7月4日中午12：00，过期不再接受申请。
@@ -35,5 +37,7 @@
    现已发布：https://sist.shanghaitech.edu.cn/2021/0430/c7339a63390/page.htm
 
 - 北航（暂未定）
+
+   http://yzb.buaa.edu.cn/xlss.htm
 
 - 北邮（暂未定）
