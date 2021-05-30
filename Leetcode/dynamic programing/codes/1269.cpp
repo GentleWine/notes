@@ -7,10 +7,11 @@ private:
     int max_pos = 250;
     int mod=pow(10,9) + 7;
     // an array storing the partial solutions which are the probable numbers of situations.
-    int f[501][250] ={0};
+    int f[501][251]={0};
 public:
     int numWays(int steps, int arrLen) {
         //essential!
+
         f[0][0] = 1;
 
         for(int i = 1; i<=steps; i++)
@@ -26,11 +27,10 @@ public:
                 {
                     n1 = f[i-1][j-1]%mod;
                 }
+                f[i][j] = (n1+n2+n3)%mod;
 
-                f[i][j]=(n1+n2+n3)%mod;
-                cout<< (n1+n2+n3)%mod<<' '<<i<<' '<<j<<' '<<n1<<' '<<n2<<' '<<n3<<' '<<endl;
             }
-        return f[steps][0]%mod;
+        return f[steps][0];
     }
 };
 int main()

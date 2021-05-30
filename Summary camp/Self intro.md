@@ -1,0 +1,12 @@
+# Self intro
+
+​	My name is Wenfu Zhong, I'm from Xidian University and my major is Software engineering. The rank and GPI of me have met the basic requirement of our academy. So There's my introduction of myself listed as follows.
+
+​	Firstly, I'm good at and have substantial interests in mathematics, algorithm and computer technology. As for grades, particularly, my discrete mathematics and possibility theory&mathematical statistics score 100 points. Moreover, my main courses are also highlighting such as Data structures(92),  Compiler principles(94),  Java programming(95), Object-oriented programming(94), Introduction of computer and program design(93), Digital circuits and system design(96), Physics(92).
+
+​	Secondly, a lot of time of my college life was donated for technology hunting and learning, project design and management, and matches. I love to dig into theories of artificial intelligence, data structures and algorithms, coding, and so on. I've got two school-level prizes---spark cup and mathematical modelling,  and I'm holding the national undergraduate creation and innovation competition and Internet plus project which is aimed at depressions called "sunshine" in hands. I've also made many projects on my own, such as ticket reservation system and convolution network for flowers recognition. In addition a mall system developed with others. What's more is that I've got a huge promotion and better understanding on scientific research after I joined the ICM/MCM in which we had an "S" certification. I also master some development tools such as Springboot in java, Tensorflow in python, Docker for containerization deployment, Unity.
+
+​	In my freshman year, I got acquainted with two friends and we signed up the school-level spark cup competition. At that time, thing few is in my knowledge and I didn't even know what to start with. However, after a mass of repetitive searching online and asking for help from predecessors, I got an idea. So we launched a game project and called it "2D horror puzzle game controlled by voice". I read unity engine's guideline for freshman and could use it for basic requirement in a short time. Actually, the total project was nearly finished on my own as I had not realized the importance of team management yet at that time. I said: "I can do it, trust me!", and I ultimately made it. 
+
+​	In the spring term of that year, I participated in our school's mathematical modeling competition. 
+
